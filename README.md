@@ -10,6 +10,8 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 
+em seguida, aparece `(.venv)` no seu terminal
+
 - Cria um arquivo com as bibliotecas necessárias de um projeto
 
 ```bash
@@ -31,3 +33,5 @@ django-admin startproject core .
 ```bash
 python manage.py runserver
 ```
+
+[![Texto Alt](example_django_app.png)]
