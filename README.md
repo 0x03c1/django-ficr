@@ -27,3 +27,7 @@ pip install django
 ```bash
 django-admin startproject core .
 ```
+
+```bash
+python manage.py runserver
+```
