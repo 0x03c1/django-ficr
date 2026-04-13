@@ -34,4 +34,6 @@ django-admin startproject core .
 python manage.py runserver
 ```
 
+A figura abaixo, mostra a arquitetura de um projeto no Django uma ou mais aplicações.
+
 [![Texto Alt](example_django_app.png)]
